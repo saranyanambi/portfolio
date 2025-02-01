@@ -1,0 +1,26 @@
+[
+  {
+    "title": "QKart Frontend",
+    "imageSrc": "projects/qkart.png",
+    "description": "QKart is an e-commerce application offering a variety of products for customers to choose from.Implemented the core logic for authentication, shopping cart and checkout.Improved UI by adding responsive design elements for uniform experience across different devices Utilized REST APIs to dynamically load and render data served by the backend server Deployed website to Netlify/Vercel",
+    "skills": ["ReactHooks", "REST", "JSON","React State & Props","React","React Router","Material UI","localStorage","Debouncing","Vercel"],
+    "demo": "https://qkart-sigma.vercel.app/"
+    
+  },
+
+  {
+    "title": "QTify",
+    "imageSrc": "projects/qtify.png",
+    "description": "QTify is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface, offering songs from different albums and genres for music lovers.",
+    "skills": ["ReactJS", "Swiper Library usage","Material UI"],
+    "demo": "https://www.example.com"
+    
+  },{
+    "title": "Qtrip-dynamic",
+    "imageSrc": "projects/qtrip-dynamic.png",
+    "description": "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.Created web pages using HTML and CSS and made them dynamic using JavaScript Improved UX with multi-select filters, image carouselsImplemented conditional rendering of page elements Implemented conditional rendering of page elements Utilized localStorage to persist user preferences at client-side and facilitated reservation form submission using fetch API.Deployed the website using Netlify/Vercel for Frontend and Render for Backend. ",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap","DOM Manipulation","localStorage"],
+    "demo": "https://qtrip-dynamic-90xwr9s19-saranya-ns-projects.vercel.app/"
+    
+  }
+]
