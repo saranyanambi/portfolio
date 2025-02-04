@@ -49,6 +49,7 @@ import { getImageUrl } from "../../utils";
 
 
 export default function ProjectCard({project: { title, imageSrc, description, skills, demo },}) {
+    console.log(demo)
   useEffect(() => {
     // Initialize ScrollReveal
     const sr = ScrollReveal();
@@ -93,7 +94,7 @@ export default function ProjectCard({project: { title, imageSrc, description, sk
         </ul>
       </CardContent>
       <CardActions>
-      <button size="small" href={demo} target="_blank" className={styles.demobtn}>Demo</button>
+      <a size="small" href={demo} target="_blank" className={styles.demobtn}>Demo</a>
       </CardActions>
     </Card>
   );

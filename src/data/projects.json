@@ -13,7 +13,7 @@
     "imageSrc": "projects/qtify.png",
     "description": "QTify is a song-browsing application built from scratch using ReactJS paired with Material UI and Swiper to deliver a seamless and aesthetic user interface, offering songs from different albums and genres for music lovers.",
     "skills": ["ReactJS", "Swiper Library usage","Material UI"],
-    "demo": "https://www.example.com"
+    "demo": "https://qtify-git-main-saranya-ns-projects.vercel.app/"
     
   },{
     "title": "Qtrip-dynamic",

@@ -93,5 +93,6 @@
     &:hover {
       background-color: #04152d;
     } 
+    text-decoration: none;
   }
   
